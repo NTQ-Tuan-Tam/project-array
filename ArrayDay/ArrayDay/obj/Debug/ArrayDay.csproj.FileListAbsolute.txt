@@ -1,0 +1,8 @@
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ArrayDay\ArrayDay\obj\Debug\ArrayDay.csproj.AssemblyReference.cache
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ArrayDay\ArrayDay\obj\Debug\ArrayDay.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ArrayDay\ArrayDay\obj\Debug\ArrayDay.csproj.CoreCompileInputs.cache
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ArrayDay\ArrayDay\bin\Debug\ArrayDay.exe.config
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ArrayDay\ArrayDay\bin\Debug\ArrayDay.exe
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ArrayDay\ArrayDay\bin\Debug\ArrayDay.pdb
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ArrayDay\ArrayDay\obj\Debug\ArrayDay.exe
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ArrayDay\ArrayDay\obj\Debug\ArrayDay.pdb

@@ -1,0 +1,8 @@
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ex1Array\ArrayMin\bin\Debug\ArrayMin.exe.config
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ex1Array\ArrayMin\bin\Debug\ArrayMin.exe
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ex1Array\ArrayMin\bin\Debug\ArrayMin.pdb
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ex1Array\ArrayMin\obj\Debug\ArrayMin.csproj.AssemblyReference.cache
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ex1Array\ArrayMin\obj\Debug\ArrayMin.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ex1Array\ArrayMin\obj\Debug\ArrayMin.csproj.CoreCompileInputs.cache
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ex1Array\ArrayMin\obj\Debug\ArrayMin.exe
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ex1Array\ArrayMin\obj\Debug\ArrayMin.pdb

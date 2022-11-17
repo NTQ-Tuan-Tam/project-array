@@ -1,0 +1,8 @@
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ex1Array\ArrayEvent\bin\Debug\ArrayEvent.exe.config
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ex1Array\ArrayEvent\bin\Debug\ArrayEvent.exe
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ex1Array\ArrayEvent\bin\Debug\ArrayEvent.pdb
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ex1Array\ArrayEvent\obj\Debug\ArrayEvent.csproj.AssemblyReference.cache
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ex1Array\ArrayEvent\obj\Debug\ArrayEvent.csproj.SuggestedBindingRedirects.cache
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ex1Array\ArrayEvent\obj\Debug\ArrayEvent.csproj.CoreCompileInputs.cache
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ex1Array\ArrayEvent\obj\Debug\ArrayEvent.exe
+C:\Users\TUAN TAM\OneDrive\Máy tính\GitFolder\ex1Array\ArrayEvent\obj\Debug\ArrayEvent.pdb
